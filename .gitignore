@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.dev.vars*
+.wrangler/
+
+public/videos/
+
+# Generated media manifest
+src/config/media.ts
